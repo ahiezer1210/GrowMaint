@@ -41,3 +41,5 @@ app-example
 # generated native folders
 /ios
 /android
+#Firebase config
+C:/Users/19772/OneDrive/Desktop/GrowMaint/firebaseConfig.js
